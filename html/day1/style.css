@@ -1,0 +1,24 @@
+#wrap{
+	min-width : 600px;
+	width : 750px;
+	background : green;
+	margin : auto;
+
+}
+#content{
+	background : orange;
+	float : left;
+	width : 450px;
+	height : 700px;
+	
+	margin-left: 0px;
+}
+
+aside{
+	float: right;
+	height : 700px;
+	width : 200px;
+	background : brown;
+	margin-right: 100px;
+}
+

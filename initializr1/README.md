@@ -1,0 +1,1 @@
+Open index.html file in browser to view my website which is about baking

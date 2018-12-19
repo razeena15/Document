@@ -1,0 +1,626 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+<meta charset="utf-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title> M•Power Yoga</title>
+
+<meta name="viewport" content="width=device-width">
+<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+<link rel="stylesheet" href="/wp-content/themes/mpower/style.css?v=1498254141" >
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.3.6/slick.css"/>
+<link rel="stylesheet" type="text/css" href="//cloud.typography.com/7624472/751064/css/fonts.css" />
+<script type="text/javascript" src="http://fast.fonts.net/jsapi/7790d1f6-b57a-459c-b278-89e74c368c9d.js"></script>
+
+<script src="/wp-content/themes/mpower//assets/js/vendor/modernizr-2.6.1.min.js?v=1498254134" ></script>
+<link rel="pingback" href="http://mpoweryogastudio.com/xmlrpc.php" />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="M•Power Yoga &raquo; Feed" href="http://mpoweryogastudio.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="M•Power Yoga &raquo; Comments Feed" href="http://mpoweryogastudio.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="M•Power Yoga &raquo; Home Comments Feed" href="http://mpoweryogastudio.com/home/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/mpoweryogastudio.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.8"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<script type='text/javascript' src='http://mpoweryogastudio.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://mpoweryogastudio.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var EM = {"ajaxurl":"http:\/\/mpoweryogastudio.com\/wp-admin\/admin-ajax.php","locationajaxurl":"http:\/\/mpoweryogastudio.com\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"en","dateFormat":"dd\/mm\/yy","ui_css":"http:\/\/mpoweryogastudio.com\/wp-content\/plugins\/events-manager\/includes\/css\/jquery-ui.min.css","show24hours":"0","is_ssl":"","bookingInProgress":"Please wait while the booking is being submitted.","tickets_save":"Save Ticket","bookingajaxurl":"http:\/\/mpoweryogastudio.com\/wp-admin\/admin-ajax.php","bookings_export_save":"Export Bookings","bookings_settings_save":"Save Settings","booking_delete":"Are you sure you want to delete?","booking_offset":"30","bb_full":"Sold Out","bb_book":"Book Now","bb_booking":"Booking...","bb_booked":"Booking Submitted","bb_error":"Booking Error. Try again?","bb_cancel":"Cancel","bb_canceling":"Canceling...","bb_cancelled":"Cancelled","bb_cancel_error":"Cancellation Error. Try again?","txt_search":"Search","txt_searching":"Searching...","txt_loading":"Loading...","event_detach_warning":"Are you sure you want to detach this event? By doing so, this event will be independent of the recurring set of events.","delete_recurrence_warning":"Are you sure you want to delete all recurrences of this event? All events will be moved to trash.","disable_bookings_warning":"Are you sure you want to disable bookings? If you do this and save, you will lose all previous bookings. If you wish to prevent further bookings, reduce the number of spaces available to the amount of bookings you currently have","booking_warning_cancel":"Are you sure you want to cancel your booking?"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://mpoweryogastudio.com/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.7'></script>
+<link rel='https://api.w.org/' href='http://mpoweryogastudio.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://mpoweryogastudio.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://mpoweryogastudio.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.8" />
+<link rel="canonical" href="http://mpoweryogastudio.com/" />
+<link rel='shortlink' href='http://mpoweryogastudio.com/' />
+<link rel="alternate" type="application/json+oembed" href="http://mpoweryogastudio.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmpoweryogastudio.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://mpoweryogastudio.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmpoweryogastudio.com%2F&#038;format=xml" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		</head>
+<body class="home page-template-default page page-id-2">
+  <!--[if lt IE 7]>
+    <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
+  <![endif]-->
+<script type="text/javascript"> (function() { var zen = document.createElement("script");zen.type = "text/javascript";zen.async = true; zen.src = 'https://widget.zenrez.com/business/5a0b32a7c6de3b0011436cc0';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(zen, s);})(); </script>
+  <div id="container">
+    <header id="header" role="banner" >
+					<div class="pad">
+				<h1><a href="http://mpoweryogastudio.com/">
+				<svg version="1.1"
+					 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+					 x="0px" y="0px" width="504px" height="140.8px" viewBox="0 0 504 140.8" style="enable-background:new 0 0 504 140.8;"
+					 xml:space="preserve">
+				<style type="text/css">
+					.logo-st2{fill:#414042;}
+				</style>
+				<defs>
+				</defs>
+				<g>
+					<g>
+						<g>
+							<path class="logo-st2" d="M393.4,3v61.7c0,1.6,1.6,1.6,1.6,1.6h6.7h30V58h-30V31.3h30V23h-30V9.7h30V1.4c0,0-35,0-36.6,0
+								S393.4,3,393.4,3z"/>
+							<path class="logo-st2" d="M168.5,1.4c0,0-29.8,0-31,0s-1.2,1.2-1.2,1.2v63.7h8.3v-35h24c8.2,0,14.9-6.7,14.9-14.9S176.7,1.4,168.5,1.4
+								z M168.5,23h-24V9.7h24c3.7,0,6.7,3,6.7,6.7C175.1,20,172.1,23,168.5,23z"/>
+							<path class="logo-st2" d="M504,16.3c0-8.2-6.7-14.9-14.9-14.9c0,0-29.5,0-31,0s-1.3,1.4-1.3,1.4v63.5h8.3v-35h16.3l11,35h8.3
+								l-10.6-35.1C497.8,30.8,504,24.3,504,16.3z M465,9.7h24c3.7,0,6.7,3,6.7,6.7c0,3.7-3,6.7-6.7,6.7h-24V9.7z"/>
+							<path class="logo-st2" d="M232.6,0c-18,0-33.4,15.2-33.4,33.8c0,18.7,15.3,33.8,33.4,33.8c18,0,33.4-15.2,33.4-33.8
+								C265.9,15.2,250.6,0,232.6,0z M232.6,59.4c-13.6,0-25.7-11.5-25.7-25.6s12.1-25.6,25.7-25.6c13.6,0,25.7,11.5,25.7,25.6
+								S246.2,59.4,232.6,59.4z"/>
+							<circle class="logo-st2" cx="108.8" cy="27.1" r="4.1"/>
+							<path class="logo-st2" d="M322.1,8.9"/>
+						</g>
+						<g>
+							<path class="logo-st2" d="M95.2,65.3l-30-62.8c0,0-0.6-1-1.5-1s-1.5,1-1.5,1L47.7,32.9L33.2,2.4c0,0-0.6-1-1.5-1c-0.9,0-1.5,1-1.5,1
+								l-30,62.8c0,0-0.6,1,0.6,1c1,0,4.4,0,6.5,0c1.8,0,2.4-1.6,2.4-1.6l22-46.1l11.4,24.1l-10.5,22c0,0-1,1.6,1.2,1.6
+								c1.3,0,3.4,0,4.9,0c1.7,0,2.4-1.6,2.4-1.6l22.6-46.1l21.8,46.1c0,0,0.7,1.6,2.5,1.6c2,0,5.2,0,6.2,0
+								C95.8,66.3,95.2,65.3,95.2,65.3z"/>
+							<path class="logo-st2" d="M54.4,46.9l-4,7.6c0,0-0.7,1,0,2.3c0.7,1.3,3.9,7.8,3.9,7.8s0.6,1.6,2.4,1.6c1.3,0,3.2,0,4.6,0
+								c2.5,0,1.5-1.6,1.5-1.6L54.4,46.9z"/>
+						</g>
+						<g>
+							<path class="logo-st2" d="M341.1,3c0,0,1-1.6-1.2-1.6c-1.3,0-3.4,0-4.9,0c-1.7,0-2.4,1.6-2.4,1.6L326,16.4L319.4,3
+								c0,0-0.6-1.6-2.4-1.6c-1.3,0-3.2,0-4.6,0c-2.5,0-1.5,1.6-1.5,1.6l10.6,22.1l-11.3,24L288.2,3c0,0-0.7-1.6-2.5-1.6
+								c-2,0-5.2,0-6.2,0c-1.6,0-1,1-1,1l30,62.8c0,0,0.6,1,1.5,1c0.9,0,1.5-1,1.5-1L341.1,3z"/>
+							<path class="logo-st2" d="M372.9,1.4c-1,0-4.4,0-6.5,0c-1.8,0-2.4,1.6-2.4,1.6l-22,46.1l-9.3-19.6l-4.1,8.6c0,0-0.6,1.2,0,2.4
+								c0.6,1.2,11.9,24.8,11.9,24.8s0.6,1,1.5,1c0.9,0,1.5-1,1.5-1l30-62.8C373.6,2.4,374.2,1.4,372.9,1.4z"/>
+						</g>
+					</g>
+				</g>
+				<g>
+					<g>
+						<path class="logo-st2" d="M133.6,140.4h-4.8v-11.6l-5.8-16.3h4.9l3.4,10.6h0.1l3.2-10.6h4.9l-5.8,16.3V140.4z"/>
+						<path class="logo-st2" d="M149.9,119.3c0-1,0.1-1.9,0.4-2.8c0.3-0.9,0.7-1.6,1.4-2.3c0.6-0.6,1.4-1.2,2.3-1.5c0.9-0.4,2-0.6,3.3-0.6
+							s2.4,0.2,3.3,0.6c0.9,0.4,1.7,0.9,2.3,1.5c0.6,0.6,1.1,1.4,1.4,2.3c0.3,0.9,0.4,1.8,0.4,2.8v14.4c0,1-0.1,1.9-0.4,2.8
+							c-0.3,0.9-0.7,1.6-1.4,2.3c-0.6,0.6-1.4,1.2-2.3,1.5c-0.9,0.4-2,0.6-3.3,0.6s-2.4-0.2-3.3-0.6c-0.9-0.4-1.7-0.9-2.3-1.5
+							c-0.6-0.6-1.1-1.4-1.4-2.3c-0.3-0.9-0.4-1.8-0.4-2.8V119.3z M154.6,133.5c0,1.1,0.2,1.8,0.5,2.3c0.4,0.5,1,0.8,2,0.8
+							s1.6-0.3,2-0.8c0.4-0.5,0.5-1.3,0.5-2.3v-14.2c0-1.1-0.2-1.8-0.5-2.3c-0.4-0.5-1-0.8-2-0.8s-1.6,0.3-2,0.8
+							c-0.4,0.5-0.5,1.3-0.5,2.3V133.5z"/>
+						<path class="logo-st2" d="M183.5,126.3h7.8v14.2h-2.3l-0.9-2.1c-0.7,0.9-1.4,1.5-2.1,1.9c-0.7,0.4-1.6,0.6-2.7,0.6
+							c-1.9,0-3.5-0.6-4.6-1.9c-1.2-1.3-1.8-3-1.8-5.3v-14.4c0-1,0.1-1.9,0.4-2.8c0.3-0.9,0.7-1.6,1.3-2.3c0.6-0.6,1.3-1.2,2.2-1.5
+							s1.9-0.6,3.1-0.6c1.2,0,2.2,0.2,3.1,0.6c0.9,0.4,1.7,1,2.3,1.7c0.6,0.7,1.1,1.5,1.4,2.4c0.3,0.9,0.4,1.9,0.4,2.9v1.8h-4.6
+							c0-1-0.1-1.9-0.2-2.6c-0.1-0.7-0.3-1.2-0.5-1.6c-0.2-0.4-0.5-0.7-0.9-0.8c-0.3-0.2-0.8-0.2-1.2-0.2c-0.6,0-1.1,0.2-1.5,0.6
+							c-0.4,0.4-0.6,1.2-0.6,2.4v14.3c0,0.9,0.2,1.6,0.5,2.1c0.3,0.5,0.9,0.8,1.7,0.8c1,0,1.7-0.3,2-0.9c0.4-0.6,0.6-1.6,0.6-3V130h-3.1
+							V126.3z"/>
+						<path class="logo-st2" d="M206.8,140.4h-4.6l5.1-27.9h6l5.1,27.9h-4.6l-0.9-6.2h-5.3L206.8,140.4z M208.3,130h3.9l-1.9-12h-0.1
+							L208.3,130z"/>
+						<path class="logo-st2" d="M261.5,112.5h7.1c2.6,0,4.5,0.6,5.6,1.9c1.2,1.3,1.8,3.1,1.8,5.5c0,0.6-0.1,1.2-0.2,1.8
+							c-0.1,0.6-0.3,1.2-0.6,1.7c-0.3,0.5-0.6,1-1,1.4c-0.4,0.4-0.9,0.7-1.5,1c1.2,0.5,2.2,1.3,2.9,2.4c0.7,1,1,2.4,1,4.3
+							c0,1.2-0.1,2.2-0.4,3.2c-0.3,1-0.7,1.8-1.3,2.6c-0.6,0.7-1.4,1.3-2.3,1.7c-1,0.4-2.1,0.6-3.5,0.6h-7.6V112.5z M266.3,123.9h1.7
+							c0.9,0,1.7-0.3,2.3-0.9c0.6-0.6,0.9-1.5,0.9-2.6c0-2.6-1-3.9-3.1-3.9h-1.8V123.9z M266.3,136.5h2c1.3,0,2.2-0.4,2.7-1.1
+							s0.8-1.8,0.8-3.2c0-1.4-0.3-2.5-0.9-3.2c-0.6-0.7-1.6-1.1-3.1-1.1h-1.5V136.5z"/>
+						<path class="logo-st2" d="M291.4,140.4h-4.6l5.1-27.9h6l5.1,27.9h-4.6l-0.9-6.2h-5.3L291.4,140.4z M292.9,130h3.9l-1.9-12h-0.1
+							L292.9,130z"/>
+						<path class="logo-st2" d="M318.3,140.4h-4.8v-27.9h6.7c2.7,0,4.7,0.6,6.1,1.9c1.4,1.3,2,3.4,2,6.3c0,1.1-0.1,2.1-0.3,2.9
+							c-0.2,0.8-0.5,1.5-0.8,2c-0.3,0.6-0.7,1-1.1,1.3c-0.4,0.3-0.8,0.6-1.2,0.8l4.1,12.6h-4.9l-3.4-11.6c-0.3,0.1-0.7,0.1-1.1,0.1
+							c-0.5,0-0.9,0-1.3,0V140.4z M318.3,125h1.7c0.6,0,1.2-0.1,1.6-0.2c0.5-0.1,0.8-0.4,1.1-0.7c0.3-0.3,0.5-0.8,0.6-1.3
+							c0.1-0.6,0.2-1.2,0.2-2.1c0-1.6-0.3-2.8-0.8-3.4c-0.5-0.6-1.5-0.9-2.7-0.9h-1.7V125z"/>
+						<path class="logo-st2" d="M345.3,140.4h-4.8v-27.9h6.7c2.7,0,4.7,0.6,6.1,1.9c1.4,1.3,2,3.4,2,6.3c0,1.1-0.1,2.1-0.3,2.9
+							c-0.2,0.8-0.5,1.5-0.8,2c-0.3,0.6-0.7,1-1.1,1.3c-0.4,0.3-0.8,0.6-1.2,0.8l4.1,12.6h-4.9l-3.4-11.6c-0.3,0.1-0.7,0.1-1.1,0.1
+							c-0.5,0-0.9,0-1.3,0V140.4z M345.3,125h1.7c0.6,0,1.2-0.1,1.6-0.2c0.4-0.1,0.8-0.4,1.1-0.7c0.3-0.3,0.5-0.8,0.6-1.3
+							c0.1-0.6,0.2-1.2,0.2-2.1c0-1.6-0.3-2.8-0.8-3.4c-0.5-0.6-1.5-0.9-2.7-0.9h-1.7V125z"/>
+						<path class="logo-st2" d="M367.6,140.4v-27.9h12.8v4.2h-8v7.2h6.2v4.2h-6.2v8.2h8.6v4.2H367.6z"/>
+					</g>
+					<path class="logo-st2" d="M240,123.1c1.4,0,2.5,1.1,2.5,2.5c0,1.4-1.1,2.5-2.5,2.5c-1.4,0-2.5-1.1-2.5-2.5
+						C237.5,124.2,238.6,123.1,240,123.1z"/>
+				</g>
+				</svg>
+				 					
+				</a></h1>
+			</div>
+		
+		<a href="#content" class="sr-only">Skip to main content</a>
+
+		
+			<div class="nav">
+				<div id="nav-logo"></div>
+				<a href="#" class="nav-tog">
+					<span></span>
+					<span></span>
+					<span></span>
+				</a>
+
+				
+				<div class="menu">
+					<ul>
+					    
+												    		<li class="current_page_item page-item-2"><a href="http://mpoweryogastudio.com/" class="title">Home</a>
+					    	
+					    					        					    					    </li>
+					    					
+												    		<li class="page-item-5"><a href="http://mpoweryogastudio.com/about/" class="title">About</a>
+					    	
+					    					        					    										        					            					            <ul class="children">
+					            					                <li class="item"><a href="#foundations" class="title">Foundations</a></li>
+					            					        					    										        					            					                <li class="item"><a href="#team" class="title">Team</a></li>
+					            					        					    										        					            					                <li class="item"><a href="#music-art" class="title">Music</a></li>
+					            					            </ul>
+					            					        					    					    </li>
+					    					
+												    		<li class="page-item-7"><a href="http://mpoweryogastudio.com/classes/" class="title">Classes</a>
+					    	
+					    					        					    										        					            					            <ul class="children">
+					            					                <li class="item"><a href="#schedule" class="title">Schedule</a></li>
+					            					        					    										        					            					                <li class="item"><a href="#class-list" class="title">Class List</a></li>
+					            					        					    										        					            					                <li class="item"><a href="#pricing" class="title">Pricing</a></li>
+					            					            </ul>
+					            					        					    					    </li>
+					    					
+												    		<li class="page-item-9"><a href="http://mpoweryogastudio.com/new-to-yoga/" class="title">New to Yoga?</a>
+					    	
+					    					        					    										        					            					            <ul class="children">
+					            					                <li class="item"><a href="#what-to-expect" class="title">What to Expect</a></li>
+					            					        					    										        					            					                <li class="item"><a href="#which-class-is-right-for-you" class="title">Which Class?</a></li>
+					            					        					    										        					            					                <li class="item"><a href="#faqs" class="title">FAQs</a></li>
+					            					            </ul>
+					            					        					    					    </li>
+					    					
+												    		<li class="page-item-11"><a href="http://mpoweryogastudio.com/the-studio/" class="title">The Studio</a>
+					    	
+					    					        					    										        					            					            <ul class="children">
+					            					                <li class="item"><a href="#space" class="title">Space</a></li>
+					            					        					    										        					            					                <li class="item"><a href="#retail-boutique" class="title">Retail Boutique</a></li>
+					            					        					    										        					            					                <li class="item"><a href="#directions" class="title">Directions</a></li>
+					            					            </ul>
+					            					        					    					    </li>
+					    					
+												    		<li class="page-item-13"><a href="http://mpoweryogastudio.com/events/" class="title">Events</a>
+					    	
+					    					        					    										        					            					            <ul class="children">
+					            					                <li class="item"><a href="#calendar" class="title">Calendar</a></li>
+					            					            </ul>
+					            					        					    					    </li>
+					    					
+												    		<li class="page-item-648"><a href="http://mpoweryogastudio.com/teacher-training/" class="title">Teacher Training</a>
+					    	
+					    					        					    										        					            					            <ul class="children">
+					            					                <li class="item"><a href="#training-overview" class="title">Training Overview</a></li>
+					            					        					    										        					            					                <li class="item"><a href="#faculty" class="title">Faculty</a></li>
+					            					        					    										        					            					                <li class="item"><a href="#investment" class="title">Investment</a></li>
+					            					            </ul>
+					            					        					    					    </li>
+					    					
+												    		<li class="page-item-15"><a href="http://mpoweryogastudio.com/inspiration/" class="title">Inspiration</a>
+					    	
+					    					        					    					    </li>
+					    					
+												    		<li class="page-item-17"><a href="http://mpoweryogastudio.com/contact/" class="title">Contact</a>
+					    	
+					    					        					    										        					            					            <ul class="children">
+					            					                <li class="item"><a href="#directions" class="title">Getting Here</a></li>
+					            					            </ul>
+					            					        					    					    </li>
+					    										</ul>
+				</div>
+			</div>
+				<button class="join" data-toggle="modal" data-target="#join-modal">Experience M&middot;Power</button>
+    </header>
+<div class="social">
+	<a target="_blank" href="https://www.facebook.com/mpoweryogabaltimore" class="fb">Facebook</a>
+	<a target="_blank" href="https://twitter.com/mpoweryoga1" class="tw">Twitter</a>
+	<a target="_blank" href="http://www.youtube.com/channel/UCkviWTTgC7d5LHOg41rEgdg" class="yt">YouTube</a>
+</div>
+
+<div class="wrap">
+
+	<section id="hero" class="home section clearfix">
+
+						<img src="http://mpoweryogastudio.com/wp-content/uploads/2014/04/hero-update-1.jpg" />
+				<!--<div class="stretched slide" data-stretch="http://mpoweryogastudio.com/wp-content/uploads/2014/04/hero-update-1-1024x715.jpg"></div>-->
+				
+		<span class="curtain"></span>
+
+	</section>
+
+
+	<div id="main" class="main" role="main">
+
+	  
+		<section id="hello" class="section full clearfix">
+			<div class="copy center text-center">
+				<h2>M•Power the True You</h2>
+				<hr>
+				<p>We inspire our students to live true to themselves with engaging classes, meaningful connection to community, and a memorable experience every time they walk through our doors.</p>
+				<a href="http://mpoweryogastudio.com/about/" class="cta move">Learn more about us<i class="right blue"></i></a>
+			</div>
+		</section>
+		<section id="new-callout" class="flood-y">
+			<h2>New to M•Power?</h2>
+			<p>New students get 30 days for just $30!<Br /><a href="https://clients.mindbodyonline.com/classic/ws?studioid=117981&stype=43&prodid=12947" class="cta">SIGN UP TODAY<i class="right white"></i></a></p>
+		</section>
+				<section class="spotlight section">
+			<div class="container-fluid">
+				<div class="row flood-b">
+					<figure class="col-md-6 col-sm-4 image stretched" data-stretch="http://mpoweryogastudio.com/wp-content/uploads/2014/04/mPowerYoga_DSC_3340-Edit-1024x681.jpg">
+					</figure>
+					<div class="col-md-6">
+						<div class="inner">
+							<article class="post" id="post-2">
+							    <header class="slide">
+									<h4>7 CLASS CHALLENGE</h4>
+									<h2>Take the M•Power <br />7 Class Challenge</h2>
+									<hr>
+							    </header>
+								<p>Take 7 classes during your 30-day trial and <strong>get special discounts on membership!</strong></p>
+																	<a href="https://clients.mindbodyonline.com/classic/ws?studioid=117981&stype=43&prodid=10106" class="cta move">Sign up today <i class="right white"></i></a>							
+																			<a href="#join" class="cta move">Learn More <i class="right white"></i></a>							
+																																</article>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section id="upcoming" class="section">
+			<div class="container">
+				<div class="row cf">
+					<div class="col-md-6 left">
+						<h2>Upcoming Classes</h2>
+						<ul>
+				<li data-time='06'>
+					<div>
+						<a href='https://clients.mindbodyonline.com/ws.asp?sDate=12/17/2018&sLoc=1&sTG=22&sType=-7&sclassid=600&studioid=117981' class='heading'>M.Power Pilates Barre</a>
+						<span>Courtney McKeon</span>
+					</div>
+					<p><a href='https://clients.mindbodyonline.com/ws.asp?sDate=12/17/2018&sLoc=1&sTG=22&sType=-7&sclassid=600&studioid=117981' class='button'>Register</a>6:15 am &ndash; 7:15 am</p>
+				</li>
+			
+				<li data-time='06'>
+					<div>
+						<a href='https://clients.mindbodyonline.com/ws.asp?sDate=12/17/2018&sLoc=1&sTG=22&sType=-7&sclassid=759&studioid=117981' class='heading'>M.Power 2</a>
+						<span>Elyza Dolby</span>
+					</div>
+					<p><a href='https://clients.mindbodyonline.com/ws.asp?sDate=12/17/2018&sLoc=1&sTG=22&sType=-7&sclassid=759&studioid=117981' class='button'>Register</a>6:15 am &ndash; 7:15 am</p>
+				</li>
+			
+				<li data-time='09'>
+					<div>
+						<a href='https://clients.mindbodyonline.com/ws.asp?sDate=12/17/2018&sLoc=1&sTG=22&sType=-7&sclassid=978&studioid=117981' class='heading'>Intro to M2</a>
+						<span>Amanda Hurst</span>
+					</div>
+					<p><a href='https://clients.mindbodyonline.com/ws.asp?sDate=12/17/2018&sLoc=1&sTG=22&sType=-7&sclassid=978&studioid=117981' class='button'>Register</a>9:00 am &ndash; 10:00 am</p>
+				</li>
+			
+				<li data-time='12'>
+					<div>
+						<a href='https://clients.mindbodyonline.com/ws.asp?sDate=12/17/2018&sLoc=1&sTG=22&sType=-7&sclassid=979&studioid=117981' class='heading'>M.Power 2</a>
+						<span>Gina Misuraca</span>
+					</div>
+					<p><a href='https://clients.mindbodyonline.com/ws.asp?sDate=12/17/2018&sLoc=1&sTG=22&sType=-7&sclassid=979&studioid=117981' class='button'>Register</a>12:00 pm &ndash; 1:00 pm</p>
+				</li>
+			
+				<li data-time='12'>
+					<div>
+						<a href='https://clients.mindbodyonline.com/ws.asp?sDate=12/17/2018&sLoc=1&sTG=22&sType=-7&sclassid=930&studioid=117981' class='heading'>M.Power Classic Barre </a>
+						<span>Jason Williams</span>
+					</div>
+					<p><a href='https://clients.mindbodyonline.com/ws.asp?sDate=12/17/2018&sLoc=1&sTG=22&sType=-7&sclassid=930&studioid=117981' class='button'>Register</a>12:00 pm &ndash; 1:00 pm</p>
+				</li>
+			
+				<li data-time='15'>
+					<div>
+						<a href='https://clients.mindbodyonline.com/ws.asp?sDate=12/17/2018&sLoc=1&sTG=22&sType=-7&sclassid=935&studioid=117981' class='heading'>M.Power 1 </a>
+						<span>Samantha Pessognelli</span>
+					</div>
+					<p><a href='https://clients.mindbodyonline.com/ws.asp?sDate=12/17/2018&sLoc=1&sTG=22&sType=-7&sclassid=935&studioid=117981' class='button'>Register</a>3:30 pm &ndash; 4:30 pm</p>
+				</li>
+			
+				<li data-time='17'>
+					<div>
+						<a href='https://clients.mindbodyonline.com/ws.asp?sDate=12/17/2018&sLoc=1&sTG=22&sType=-7&sclassid=956&studioid=117981' class='heading'>M.Power 2</a>
+						<span>Erica Schommer</span>
+					</div>
+					<p><a href='https://clients.mindbodyonline.com/ws.asp?sDate=12/17/2018&sLoc=1&sTG=22&sType=-7&sclassid=956&studioid=117981' class='button'>Register</a>5:00 pm &ndash; 6:00 pm</p>
+				</li>
+			
+				<li data-time='17'>
+					<div>
+						<a href='https://clients.mindbodyonline.com/ws.asp?sDate=12/17/2018&sLoc=1&sTG=22&sType=-7&sclassid=705&studioid=117981' class='heading'>M.Power Cardio Barre</a>
+						<span>Stacey Dorsey</span>
+					</div>
+					<p><a href='https://clients.mindbodyonline.com/ws.asp?sDate=12/17/2018&sLoc=1&sTG=22&sType=-7&sclassid=705&studioid=117981' class='button'>Register</a>5:30 pm &ndash; 6:30 pm</p>
+				</li>
+			
+				<li data-time='18'>
+					<div>
+						<a href='https://clients.mindbodyonline.com/ws.asp?sDate=12/17/2018&sLoc=1&sTG=22&sType=-7&sclassid=931&studioid=117981' class='heading'>M.Power 2</a>
+						<span>Michelle DeVore Zuniga</span>
+					</div>
+					<p><a href='https://clients.mindbodyonline.com/ws.asp?sDate=12/17/2018&sLoc=1&sTG=22&sType=-7&sclassid=931&studioid=117981' class='button'>Register</a>6:30 pm &ndash; 7:30 pm</p>
+				</li>
+			
+				<li data-time='18'>
+					<div>
+						<a href='https://clients.mindbodyonline.com/ws.asp?sDate=12/17/2018&sLoc=1&sTG=22&sType=-7&sclassid=1007&studioid=117981' class='heading'>M.Power 1 </a>
+						<span>Robin Fencel</span>
+					</div>
+					<p><a href='https://clients.mindbodyonline.com/ws.asp?sDate=12/17/2018&sLoc=1&sTG=22&sType=-7&sclassid=1007&studioid=117981' class='button'>Register</a>6:45 pm &ndash; 7:45 pm</p>
+				</li>
+			
+				<li data-time='20'>
+					<div>
+						<a href='https://clients.mindbodyonline.com/ws.asp?sDate=12/17/2018&sLoc=1&sTG=22&sType=-7&sclassid=1009&studioid=117981' class='heading'>Mend Restorative Yoga</a>
+						<span>Jan Belaguas</span>
+					</div>
+					<p><a href='https://clients.mindbodyonline.com/ws.asp?sDate=12/17/2018&sLoc=1&sTG=22&sType=-7&sclassid=1009&studioid=117981' class='button'>Register</a>8:00 pm &ndash; 9:00 pm</p>
+				</li>
+			
+				<li data-time='20'>
+					<div>
+						<a href='https://clients.mindbodyonline.com/ws.asp?sDate=12/17/2018&sLoc=1&sTG=22&sType=-7&sclassid=1011&studioid=117981' class='heading'>Melt Hot Yoga</a>
+						<span>Krista Darrell</span>
+					</div>
+					<p><a href='https://clients.mindbodyonline.com/ws.asp?sDate=12/17/2018&sLoc=1&sTG=22&sType=-7&sclassid=1011&studioid=117981' class='button'>Register</a>8:00 pm &ndash; 9:00 pm</p>
+				</li>
+			</ul>						<a href="classes/#schedule" class="cta move">See All Classes <i class="right yellow"></i></a>
+					</div>
+					<div class="col-md-6 right image">
+						<img src="http://mpoweryogastudio.com/wp-content/themes/mpower/assets/img/upcoming-home.jpg" alt="Upcoming" width="435" height="694">
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="spotlight section">
+			<div class="container-fluid">
+				<div class="row flood-y">
+					<figure class="col-md-6 col-sm-4 image stretched" data-stretch="http://mpoweryogastudio.com/wp-content/uploads/2014/04/spotlight2.jpg">
+					</figure>
+					<div class="col-md-6">
+						<div class="inner">
+							<article class="post" id="post-2">
+							    <header class="slide">
+									<h4>OUR NEW APP</h4>
+									<h2>Take M•Power with</h2>
+									<hr>
+							    </header>
+								<p>Download our app to sign up for classes and stay up to date with our schedule no matter where life takes you.</p>
+																									<div id="custom" class="apps">
+										<p><a href="https://itunes.apple.com/us/app/m-power-yoga/id918589973?mt=8"><img class="alignnone size-full wp-image-1596" src="http://mpoweryogastudio.com/wp-content/uploads/2014/04/apple.png" alt="" width="220" height="66" /></a> <a href="https://play.google.com/store/apps/details?id=com.fitnessmobileapps.mpower"><img class="alignnone size-full wp-image-1597" src="http://mpoweryogastudio.com/wp-content/uploads/2014/04/google.png" alt="" width="225" height="66" /></a></p>
+									</div>
+															</article>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>		
+		<section id="member" class="standard">
+			<h2>Become a member of the M•Power community.</h2>
+			<hr>
+			<article>
+				<p>Being a member at M•Power comes with more than just unlimited yoga and barre classes. Join today and get free mat and towel rentals, discounts on retail and programming, and even free Moxie Session workshops.</p>
+			</article>
+			<aside>
+				<a href="https://clients.mindbodyonline.com/classic/ws?studioid=117981&stype=40&prodid=111" class="cta">Sign up Today <i class="right blue"></i></a> 					
+									<a href="#join" class="cta">Learn More <i class="right blue"></i></a>							
+							</aside>
+		</section>
+		<section class="spotlight section left">
+			<div class="container-fluid">
+				<div class="row flood-b">
+					<div class="col-md-6">
+						<div class="inner">
+							<article class="post" id="post-2">
+							    <header class="slide">
+									<h4>Event Spotlight</h4>
+									<h2>M.Power Yoga Getaway in Tulum, Mexico.</h2>
+									<hr>
+							    </header>
+								<p><strong>Play, Practice, Relax, Heal and Connect to others in the M.Power community! Join  Erica Schommer and Jason Herd for M.Power’s first ever Yoga Getaway in Tulum, Mexico at Amansala! Spend a week in paradise with your yoga family from December 9th-15th, 2018! <br />
+ </strong> Featuring daily Yoga classes, fresh daily meals made from the healthiest ingredients that have come from the earth straight to your plate, Tulum’s breathtaking white sandy beaches, the spectacular Mayan ruins of Tulum, and a guided hike through the jungle to a hidden cenote (swimming hole). </p>
+																	<a href="http://mpoweryogastudio.com/events/getaway-tulum/" class="cta move">Click here for more info! <i class="right white"></i></a>							
+																																</article>
+						</div>
+					</div>
+					<figure class="col-md-6 col-sm-4 image stretched" data-stretch="http://mpoweryogastudio.com/wp-content/uploads/2014/04/Amansala-.jpg">
+					</figure>
+				</div>
+			</div>
+		</section>
+		<section id="instagram">
+						
+			<figure id="large" class="stretched" data-stretch="http://mpoweryogastudio.com/wp-content/uploads/2015/04/IMG_2078-1024x682.jpg">
+				<span>@mpoweryogastudio <Br />
+					<svg version="1.1"
+						 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+						 x="0px" y="0px" width="169.1px" height="169.1px" viewBox="0 0 169.1 169.1" style="enable-background:new 0 0 169.1 169.1;"
+						 xml:space="preserve">
+					<style type="text/css">
+						.igst0{fill:#E7E058;}
+					</style>
+					<defs>
+					</defs>
+					<g>
+						<path class="igst0" d="M122.4,0H46.7C20.9,0,0,20.9,0,46.7v75.8c0,25.7,20.9,46.7,46.7,46.7h75.8c25.7,0,46.7-20.9,46.7-46.7V46.7
+							C169.1,20.9,148.1,0,122.4,0z M154.1,122.4c0,17.5-14.2,31.7-31.7,31.7H46.7c-17.5,0-31.7-14.2-31.7-31.7V46.7
+							C15,29.2,29.2,15,46.7,15h75.8c17.5,0,31.7,14.2,31.7,31.7L154.1,122.4L154.1,122.4z"/>
+						<path class="igst0" d="M84.5,41C60.5,41,41,60.5,41,84.5c0,24,19.5,43.6,43.6,43.6s43.6-19.5,43.6-43.6C128.1,60.5,108.6,41,84.5,41z
+							 M84.5,113.1c-15.7,0-28.6-12.8-28.6-28.6C56,68.8,68.8,56,84.5,56s28.6,12.8,28.6,28.6C113.1,100.3,100.3,113.1,84.5,113.1z"/>
+						<path class="igst0" d="M129.9,28.3c-2.9,0-5.7,1.2-7.8,3.2c-2.1,2-3.2,4.9-3.2,7.8c0,2.9,1.2,5.7,3.2,7.8c2,2,4.9,3.2,7.8,3.2
+							c2.9,0,5.7-1.2,7.8-3.2c2.1-2,3.2-4.9,3.2-7.8c0-2.9-1.2-5.7-3.2-7.8C135.7,29.4,132.8,28.3,129.9,28.3z"/>
+					</g>
+					</svg>
+				</span>
+				<a href="https://www.instagram.com/mpoweryogastudio/"></a>
+			</figure>
+			<figure id="sm-1" class="small flood-y">
+				<span>Follow us on<br/> Instagram</span>
+				<a href="https://www.instagram.com/mpoweryogastudio/" target="_blank"></a>
+			</figure>
+			<figure id="sm-2" class="small stretched" data-stretch="http://mpoweryogastudio.com/wp-content/uploads/2017/01/12697005_1656692234580848_5258478277293093255_o-1024x682.jpg">
+				<a href="https://www.instagram.com/mpoweryogastudio/"></a>
+			</figure>
+			<figure id="sm-3" class="small stretched" data-stretch="http://mpoweryogastudio.com/wp-content/uploads/2015/03/DSC_3321-1024x681.jpg">
+				<a href="https://www.instagram.com/mpoweryogastudio/"></a>
+			</figure>
+			<figure id="sm-4" class="small stretched" data-stretch="http://mpoweryogastudio.com/wp-content/uploads/2017/04/IMG_0985.jpeg">
+				<a href="https://www.instagram.com/mpoweryogastudio/"></a>			
+			</figure>
+		</section>		
+	<section id="signup" class="section container">
+	<div class="row">
+		<div class="col-md-7 col-sm-6">
+			<!-- <a href="http://mpoweryogastudio.com" class="logo-badge"></a> -->
+			<a href="http://mpoweryogastudio.com" class="logo-badge">
+			<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve"><style>.style0{fill:	#404041;}</style><path d="M68.4 24.6L67.3 18c-1-6.3-7-12.2-13.2-13.2l-6.7-1.1c-6.3-1-16.5-1-22.8 0L18 4.7c-6.3 1-12.2 7-13.2 13.2 l-1.1 6.7c-1 6.3-1 16.5 0 22.8L4.7 54c1 6.3 7 12.2 13.2 13.2l6.7 1.1c6.3 1 16.5 1 22.8 0l6.7-1.1c6.3-1 12.2-7 13.2-13.2l1.1-6.7 C69.4 41.1 69.4 30.9 68.4 24.6z M41.2 47.5c-0.5 0-1.2 0-1.7 0c-0.7 0-0.9-0.6-0.9-0.6s-1-2-1.3-2.5c-0.3-0.5 0-0.9 0-0.9l1.5-2.9 l3 6.3C41.8 46.9 42.1 47.5 41.2 47.5z M53.6 47.5c-0.4 0-1.6 0-2.4 0c-0.7 0-0.9-0.6-0.9-0.6l-8.2-17.4l-8.5 17.4 c0 0-0.3 0.6-0.9 0.6c-0.5 0-1.3 0-1.8 0c-0.8 0-0.5-0.6-0.5-0.6l4-8.3L30 29.5l-8.3 17.4c0 0-0.2 0.6-0.9 0.6c-0.8 0-2.1 0-2.5 0 c-0.5 0-0.2-0.4-0.2-0.4l11.4-23.7c0 0 0.2-0.4 0.6-0.4c0.3 0 0.6 0.4 0.6 0.4L36 34.9l5.5-11.5c0 0 0.2-0.4 0.6-0.4 c0.3 0 0.6 0.4 0.6 0.4L54 47.2C54 47.2 54.2 47.5 53.6 47.5z" class="style0"/></svg>
+			</a>
+			
+			
+		</div>
+		
+		<div class="copy right col-md-5 col-sm-6">
+			<h2>Get M&middot;Powered</h2>
+			<p>Join our email list to get news in your inbox.</p>
+			<form role="form" class="form-inline" name="ccoptin" action="http://visitor.r20.constantcontact.com/d.jsp" target="_blank" method="post">
+				<div class="form-group">
+
+					<input type="hidden" name="llr" value="hsixvrpab">
+					<input type="hidden" name="sit" value="y65cw5nib">
+					<input type="hidden" name="m" value="1116210963015">
+					<input type="hidden" name="p" value="oi">
+
+					<input name="ea" class="form-control" placeholder="Enter your email" type="email" required>
+					<button name="go" type="submit">Submit</button>
+
+				</div>
+			</form>
+			<div class="social">
+				<a target="_blank" href="https://www.facebook.com/mpoweryogabaltimore" class="fb">Facebook</a>
+				<a target="_blank" href="https://twitter.com/mpoweryoga1" class="tw">Twitter</a>
+				<a target="_blank" href="http://www.youtube.com/channel/UCkviWTTgC7d5LHOg41rEgdg" class="yt">YouTube</a>
+			</div>
+			<div class="address">
+				<p>3600 O'Donnell St<br> Suite 100<br> Baltimore <abbr title="Maryland">MD</abbr></p>				
+			</div>
+		</div>
+	</div>
+</section>		</div>
+</div>
+
+<section id="join-modal" class="modal fade membership" tabindex="-1" role="dialog" aria-labelledby="join-modal" aria-hidden="true">
+	<div class="modal-dialog modal-lg clearfix stretched" data-stretch="/wp-content/themes/mpower//assets/img/join.jpg" >
+		<div class="modal-content clearfix">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				<h2>Ready to learn more about M•Power Yoga?</h2>
+				<a href="/contact" id="join-contact-btn">Contact Us</a>
+			</div>
+		
+			<article>
+				<div class="col">
+					<span class="label label-default">SAVE WITH OUR 7 CLASS CHALLENGE</span>
+					<p>We want you to get the most out of your experience at M•Power. Find your Moxie and take our 7 Class Challenge. Complete the 7 classes below during your 30 days for $30 offer and receive your first month of membership at a special discounted rate of $39!*<br />
+– 2 Power Yoga (M1, M1.5, or M2)<br />
+ – 2 Barre (Classic, Cardio, Pilates, or HIIT) <br />
+– 2 of any Mend, Power Yin, or Meditation <br />
+– 1 Melt </p>
+											<a href="https://clients.mindbodyonline.com/classic/ws?studioid=117981&stype=43&prodid=10106" class="cta move">REGISTER FOR CLASSES<i class="right yellow"></i></a>
+														</div>
+				<div class="col last">
+					<span class="label label-default">MEMBERSHIP BENEFITS</span>
+					<p>As a member at M•Power you get unlimited access to yoga and barre classes, free mat and towel rentals, free Moxie Session workshops, 10% off retail, and 20% off workshops and programs. Members also get free access to certain M•Power events and even exclusive access to Members Only events. <br />
+</p>
+											<a href="https://clients.mindbodyonline.com/classic/ws?studioid=117981&stype=40&prodid=111" class="cta move">SIGN UP TODAY<i class="right yellow"></i></a>
+																<a href="/classes/#pricing" class="cta move">SEE PRICING FOR ALL CLASSES<i class="right yellow"></i></a>
+									</div>
+			</article>
+			<ul class="pricing">
+				<li>
+					<div>
+						<span class="label label-default">30 DAYS for $30</span>
+						<p>New students get their first 30 days for only $30.</p>
+													<a href="https://clients.mindbodyonline.com/classic/ws?studioid=117981&stype=43&prodid=12947" class="cta move">Sign Up Now<i class="right yellow"></i></a>
+																	</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+</section>
+
+ <footer id="footer">
+  	<div class="container">
+	<div class="row">
+		<div class="col-md-7 col-sm-6">
+			<p class="tagline">Inspiring M&middot;Powered Living</p>
+			<a href="http://app.listen360.com/organizations/1384129420222010742/reviews/public" style="border: none;" target="_new"><img alt="Reviews_by_listen360_large" include_host="true" src="http://app.listen360.com/images/reviews_by_listen360_large.png?1481753964" style="border: none; vertical-align: bottom;" title="Client reviews generated by Listen360.com" /></a>
+		</div>
+		<div class="col-md-5 col-sm-6">
+	      <nav>
+	      	<a href="http://mpoweryogastudio.com/privacy-policy/">Privacy Policy</a>
+	      	<a href="http://mpoweryogastudio.com/terms-of-service/">Terms of Service</a>
+	      	<a href="http://mpoweryogastudio.com/feedback/">Feedback</a>
+	      	<a href="tel:410-449-2480">410-449-2480</a>
+	      </nav>
+		</div>
+	</div>
+  	</div>
+  </footer>
+</div> <!--! end of #container -->
+
+<div class="overlay"></div>
+
+  <!-- Grab Google CDN's jQuery. fall back to local if necessary -->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="/wp-content/themes/mpower/js/vendor/jquery-1.8.0.min.js"><\/script>')</script>
+
+
+  <script src="/wp-content/themes/mpower/assets/js/plugins.js?v=1498254133" ></script>
+  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.3.6/slick.min.js"/></script>
+  <script src="/wp-content/themes/mpower/assets/js/main.js?v=1498479250" ></script>
+
+   <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-47576790-1', 'mpoweryogastudio.com');
+	  ga('send', 'pageview');
+
+	</script>
+
+  <script type='text/javascript' src='http://mpoweryogastudio.com/wp-includes/js/wp-embed.min.js?ver=4.8.8'></script>
+
+</body>
+</html>
